@@ -14,5 +14,5 @@ If you want to add some gifs, send me a PR.
 
 There are two options if you want to add new GIFs
 
-1. Open up a pull request on this repo with the new gifs which you would like added. Once they are merged pull down the changes and have fun.
+1. Open up a pull request on this repo with the new gifs which you would like added. Once they are merged, pull down the changes and have fun.
 2. Fork this repository and change the `bin/bash` part of the workflow to reference your fork. `github_url="https://raw.githubusercontent.com/<your_username>/gifdump/master/gifs"`
